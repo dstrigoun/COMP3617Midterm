@@ -8,6 +8,8 @@ To use this example, do the following:
 
 2. Under `MainActivity.java`, change the functionality of `onNavigationItemSelected()`.
 
+![onNavigationItemSelected()](https://raw.githubusercontent.com/dstrigoun/COMP3617Midterm/master/photos/Capture1.png)
+
     a) This is what determines what happens when an item is clicked.
   
         (ex: display a fragment, change background color, etc)
