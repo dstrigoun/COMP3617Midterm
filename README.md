@@ -8,7 +8,7 @@ To use this example, do the following:
 
 2. Under `MainActivity.java`, change the functionality of `onNavigationItemSelected()`.
 
-    ![onNavigationItemSelected](pictures/Capture1.png)
+    ![onNavigationItemSelected](pictures/Capture1.PNG)
 
     a) This is what determines what happens when an item is clicked.
   
