@@ -8,7 +8,7 @@ To use this example, do the following:
 
 2. Under `MainActivity.java`, change the functionality of `onNavigationItemSelected()`.
 
-    [[https://github.com/dstrigoun/COMP3617Midterm/blob/master/pictures/Capture1.png|alt=onNavigationItemSelected]]
+    ![onNavigationItemSelected](pictures/Capture1.png)
 
     a) This is what determines what happens when an item is clicked.
   
